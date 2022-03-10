@@ -113,7 +113,7 @@
 // Operadores lógicos e, ou e não: "&&", "||" e "!"
 // e: todos os valores sejam verdade
 // ou: qualquer valor seja verdade
-// ||: troca o valor true para false ou vice-versa
+// !: troca o valor true para false ou vice-versa
 
 // var e = true && false;
 // console.log(e);

@@ -1,5 +1,4 @@
 // o que são vetores ou arrays
-
 // como declarar um array
 
 // let array = ['string', 1, true];
@@ -7,7 +6,7 @@
 
 // pode guardar vários tipos de dados
 
-let array = ['string', 1, true, ['array1'], ['array2'], ['array3'], ['array4']];
+// let array = ['string', 1, true, ['array1'], ['array2'], ['array3'], ['array4']];
 // console.log(array[0]);
 
 // Manipulando arrays 
@@ -42,8 +41,29 @@ let array = ['string', 1, true, ['array1'], ['array2'], ['array3'], ['array4']];
 
 // indexOf
 
-console.log(array.indexOf(true));
+//console.log(array.indexOf(true));
+
+// splice
+// array.splice(0, 3);
+// console.log(array);
+
+// slice 
+// let novoArray = array.slice(0, 3);
+// console.log(novoArray);
 
 
+// Objetos
 
+let object = { String: 'string', Number: 1, Boolean: true, array: ["array"], objectInterno: {objectInterno: 'objeto interno'}};
+
+// console.log(object.objectInterno);
+
+// var string = object.String;
+// console.log(string);
+
+// var array = object.array;
+// console.log(array);
+
+var {String, Boolean, objectInterno} = object;
+console.log(String, Boolean, objectInterno);
 
