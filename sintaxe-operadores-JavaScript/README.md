@@ -16,5 +16,22 @@ Input: 1, 2
 Output: Os números 1 e 2 não são iguais. Sua soma é 3, que é menor que 10 e menor que 20.
 ```
 Observação: Coloquei duas validações para poder aceitar o número '0' e outra validação para digitar apenas números.
-**Print do resultado da minha atividade:**
+
+
+**Print's do resultado da minha atividade:**
+
+##### Passando um número qualquer:
+
+![passando1e10](https://user-images.githubusercontent.com/56963289/158717641-7e73bd96-cfe7-418e-a01f-74b33b891720.jpg)
+
+##### Passando zero:
+
+![passandoZeroeZero](https://user-images.githubusercontent.com/56963289/158717804-7e6bcd1a-1b3e-45f2-82af-5eb1d1dc7b96.jpg)
+
+##### Passando String:
+
+![passandoString](https://user-images.githubusercontent.com/56963289/158718294-78ab4637-18e7-4094-bf94-2b89723bc40c.jpg)
+
+
+
 
